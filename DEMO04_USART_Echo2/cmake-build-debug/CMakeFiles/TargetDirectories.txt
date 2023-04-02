@@ -1,0 +1,3 @@
+D:/programs/workspace_clion/DEMO04_USART_Echo2/cmake-build-debug/CMakeFiles/DEMO04_USART_Echo2.elf.dir
+D:/programs/workspace_clion/DEMO04_USART_Echo2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programs/workspace_clion/DEMO04_USART_Echo2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
