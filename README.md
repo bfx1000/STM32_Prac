@@ -8,7 +8,7 @@
 | DEMO05_IIC_EEPROM1 | I2C协议例程 |
 
 
-
+This message is used to verify that this feed (feedId:75934196478656512) belongs to me (userId:75842947011506176). Join me in enjoying the next generation information browser https://follow.is.
 
 
 
